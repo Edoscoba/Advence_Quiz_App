@@ -1,9 +1,9 @@
- import React from 'react'
+import React from 'react';
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom'
 import Settings from './components/Settings'
 import Questions from './components/Questions'
 import FinalScreen from './components/FinalScreen'
-import { Box, Container, Typography } from '@mui/material'
+import { Box, Container } from '@mui/material'
  
 
  const App = () => {
